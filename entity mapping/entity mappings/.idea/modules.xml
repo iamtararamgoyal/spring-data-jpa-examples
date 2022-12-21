@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/entity mappings.iml" filepath="$PROJECT_DIR$/.idea/entity mappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entity-mappings/entity-mappings.iml" filepath="$PROJECT_DIR$/entity-mappings/entity-mappings.iml" />
+    </modules>
+  </component>
+</project>
